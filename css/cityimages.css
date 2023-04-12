@@ -1,0 +1,21 @@
+.photo {
+    width:30vw;
+    height: 30vw;
+    border-radius: 30vw;
+    display:inline-block;
+}
+
+.photo:hover{
+    border-radius: 30vw;
+    width:60vw;
+    height:60vw;
+    position:absolute;
+    left:20%;
+    z-index: 100;
+
+}
+.gallery{
+    margin:auto;
+    width:fit-content;
+    text-align: center;
+}
