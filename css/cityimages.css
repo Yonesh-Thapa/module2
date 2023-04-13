@@ -1,3 +1,10 @@
+nav {
+    text-align: center;
+    margin-bottom:50px;
+    
+}
+
+
 .photo {
     width:30vw;
     height: 30vw;
@@ -16,6 +23,24 @@
 }
 .gallery{
     margin:auto;
+    margin-top: 320px;
     width:fit-content;
     text-align: center;
+}nav a{
+    text-decoration: none;
+    font-size: 30px;
+    color:000000;
+    border-radius: 10vw;
+    padding:10px;
+    margin-bottom:50px;
+    margin-right: 50px;
+    border:1px solid transparent;
+}
+header{
+    width:100%;
+    position:fixed;
+    background-color: #CFCFCF;
+    border-bottom: 5px solid grey;
+    border-collapse: separate;
+    top:0;
 }
