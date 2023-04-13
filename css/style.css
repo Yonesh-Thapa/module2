@@ -4,7 +4,7 @@ body {
     padding:0;
 }
 body .content{
-    padding: 1rem;
+    padding: 1rem 15rem;
 
 }
 h1{
@@ -41,11 +41,12 @@ p{
     text-align: left;
     margin:auto;
     padding:auto;
+    font-size:large;
 }
 
 table{
-    margin:auto;
-    width: 100%;
+    margin:40px auto;
+    width:50%;
     border: 2px solid;
     border-collapse: collapse;
 }
