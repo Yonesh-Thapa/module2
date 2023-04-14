@@ -37,8 +37,8 @@ nav {
     width:40vw;
     height:40vw;
     position:absolute;
-    top:700px;
-    left:30%;
+    top:260px;
+    left:20%;
     z-index: 100;
 
 }
@@ -55,12 +55,12 @@ nav a{
 }
 /* header{
     width:100%;
-    /* position:relative; */
-    /* background-color: #CFCFCF; */
-    /* border-bottom: 5px solid grey; */
-    /* border-collapse: separate;
+    position:relative;
+    background-color: #CFCFCF;
+    border-bottom: 5px solid grey;
+    border-collapse: separate;
     top:0;
-} */ */
+}
 .fullsize{
     /* transition: 300ms all; */
     margin-left: 13%;
